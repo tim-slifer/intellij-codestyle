@@ -23,6 +23,7 @@
     <option name="SPACES_AROUND_KEY_VALUE_DELIMITER" value="true" />
   </Properties>
   <XML>
+    <option name="XML_KEEP_BLANK_LINES" value="1" />
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
   <editorconfig>
@@ -120,6 +121,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="XML">
+    <option name="WRAP_ON_TYPING" value="1" />
     <indentOptions>
       <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
