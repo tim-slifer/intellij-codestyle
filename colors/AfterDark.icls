@@ -53,6 +53,12 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
+      <value>
+        <option name="FOREGROUND" value="c8c8c8" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="DEFAULT_DOT">
       <value>
         <option name="FOREGROUND" value="e6e6e6" />
