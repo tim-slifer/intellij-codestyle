@@ -189,6 +189,7 @@
         <option name="FOREGROUND" value="aaaaaa" />
       </value>
     </option>
+    <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="e6e6e6" />
