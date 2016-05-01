@@ -46,6 +46,11 @@
         <option name="FOREGROUND" value="e6e6e6" />
       </value>
     </option>
+    <option name="DEFAULT_PARENTHS">
+      <value>
+        <option name="FOREGROUND" value="e6e6e6" />
+      </value>
+    </option>
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="e6e6e6" />
