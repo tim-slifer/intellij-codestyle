@@ -15,6 +15,12 @@
         <option name="FOREGROUND" value="3cfa1e" />
       </value>
     </option>
+    <option name="DEFAULT_INTERFACE_NAME">
+      <value>
+        <option name="FOREGROUND" value="3cfa1e" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="e6e6e6" />
