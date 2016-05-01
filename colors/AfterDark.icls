@@ -159,6 +159,11 @@
         <option name="FOREGROUND" value="c8c8c8" />
       </value>
     </option>
+    <option name="DEFAULT_VALID_STRING_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="aaaaaa" />
+      </value>
+    </option>
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="e6e6e6" />
