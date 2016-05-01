@@ -60,6 +60,11 @@
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER" baseAttributes="TEXT" />
+    <option name="DEFAULT_INSTANCE_FIELD">
+      <value>
+        <option name="FOREGROUND" value="fafa28" />
+      </value>
+    </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
         <option name="FOREGROUND" value="3cfa1e" />
