@@ -46,6 +46,13 @@
         <option name="FOREGROUND" value="828282" />
       </value>
     </option>
+    <option name="DEFAULT_DOC_COMMENT_TAG">
+      <value>
+        <option name="FOREGROUND" value="aaaaaa" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="DEFAULT_DOT">
       <value>
         <option name="FOREGROUND" value="e6e6e6" />
