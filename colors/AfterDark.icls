@@ -25,6 +25,11 @@
         <option name="FOREGROUND" value="3cfa1e" />
       </value>
     </option>
+    <option name="DEFAULT_COMMA">
+      <value>
+        <option name="FOREGROUND" value="e6e6e6" />
+      </value>
+    </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
         <option name="FOREGROUND" value="3cfa1e" />
