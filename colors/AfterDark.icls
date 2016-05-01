@@ -8,6 +8,11 @@
         <option name="FOREGROUND" value="e6e6e6" />
       </value>
     </option>
+    <option name="DEFAULT_BRACKETS">
+      <value>
+        <option name="FOREGROUND" value="e6e6e6" />
+      </value>
+    </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
         <option name="FOREGROUND" value="3cfa1e" />
