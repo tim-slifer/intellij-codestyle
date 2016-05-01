@@ -59,6 +59,11 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="DEFAULT_DOC_MARKUP">
+      <value>
+        <option name="FOREGROUND" value="646464" />
+      </value>
+    </option>
     <option name="DEFAULT_DOT">
       <value>
         <option name="FOREGROUND" value="e6e6e6" />
