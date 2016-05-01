@@ -215,12 +215,22 @@
     </option>
     <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="RULENAME">
+      <value>
+        <option name="FOREGROUND" value="a5fa" />
+      </value>
+    </option>
     <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD" />
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="e6e6e6" />
         <option name="BACKGROUND" value="1e1e1e" />
         <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="TOKENNAME">
+      <value>
+        <option name="FOREGROUND" value="3cfa1e" />
       </value>
     </option>
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
