@@ -226,6 +226,11 @@
     </option>
     <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="JSON.PROPERTY_KEY">
+      <value>
+        <option name="FOREGROUND" value="a5fa" />
+      </value>
+    </option>
     <option name="RULENAME">
       <value>
         <option name="FOREGROUND" value="a5fa" />
