@@ -3,6 +3,7 @@
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <colors>
+    <option name="ANNOTATIONS_COLOR" value="" />
     <option name="CARET_COLOR" value="e6e6e6" />
     <option name="CARET_ROW_COLOR" value="282828" />
     <option name="INDENT_GUIDE" value="" />
