@@ -17,6 +17,7 @@
     <option name="FILESTATUS_OBSOLETE" value="" />
     <option name="FILESTATUS_SWITCHED" value="" />
     <option name="FILESTATUS_UNKNOWN" value="a5fa" />
+    <option name="GUTTER_BACKGROUND" value="3c3c3c" />
     <option name="INDENT_GUIDE" value="" />
     <option name="LINE_NUMBERS_COLOR" value="828282" />
     <option name="METHOD_SEPARATORS_COLOR" value="" />
@@ -365,6 +366,12 @@
       <value>
         <option name="BACKGROUND" value="646464" />
         <option name="ERROR_STRIPE_COLOR" value="646464" />
+      </value>
+    </option>
+    <option name="TODO_DEFAULT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="828282" />
+        <option name="ERROR_STRIPE_COLOR" value="fafa" />
       </value>
     </option>
     <option name="TOKENNAME">
