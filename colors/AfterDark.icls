@@ -11,6 +11,7 @@
     <option name="FILESTATUS_HIJACKED" value="" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="f050fa" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="f050fa" />
     <option name="FILESTATUS_MODIFIED" value="a5fa" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="" />
@@ -42,9 +43,6 @@
         <option name="ERROR_STRIPE_COLOR" value="fa1414" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
-    </option>
-    <option name="BOOKMARKS_ATTRIBUTES">
-      <value />
     </option>
     <option name="CSS.COLOR">
       <value>
