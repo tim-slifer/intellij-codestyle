@@ -36,6 +36,16 @@
       </value>
     </option>
     <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
+    <option name="ANTLRv4_RULENAME">
+      <value>
+        <option name="FOREGROUND" value="a5fa" />
+      </value>
+    </option>
+    <option name="ANTLRv4_TOKENNAME">
+      <value>
+        <option name="FOREGROUND" value="3cfa1e" />
+      </value>
+    </option>
     <option name="BAD_CHARACTER">
       <value>
         <option name="FOREGROUND" value="e6e6e6" />
