@@ -4,7 +4,7 @@ This is my code style definition for IntelliJ IDEA.
 General rules that are enforced are:
 
 - 120 column line width.
-- Tabs instead of spaces. Indents are 4 spaces, continuations are 8 spaces.
+- Spaces instead of tabs. Indents are 4 spaces, continuations are 8 spaces.
 - Spaces:
     - Add spaces before parentheses, except for method/function declarations and calls.
     - Add spaces around operators, except unary operators.
