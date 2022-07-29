@@ -55,6 +55,9 @@
     <option name="XML_KEEP_LINE_BREAKS_IN_TEXT" value="false" />
     <option name="XML_KEEP_BLANK_LINES" value="1" />
   </XML>
+  <yaml>
+    <option name="INDENT_SEQUENCE_VALUE" value="false" />
+  </yaml>
   <codeStyleSettings language="CSS">
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <indentOptions>
@@ -300,6 +303,13 @@
     <option name="ASSIGNMENT_WRAP" value="1" />
     <option name="ENUM_CONSTANTS_WRAP" value="2" />
     <indentOptions>
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="yaml">
+    <option name="KEEP_LINE_BREAKS" value="false" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
       <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
   </codeStyleSettings>
