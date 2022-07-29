@@ -20,13 +20,19 @@ I've forced very little line wrapping, opting instead to wrap if long. I felt th
 
 ## Installation
 
-Copy the `codestyles` folder in this project into the `~/.IntelliJIdea/config/` folder and restart Idea.
+Copy the `codestyles` folders in this project into the IntelliJ config folder and restart Idea.
+
+For Linux users: `~/.config/JetBrains/IntelliJIdea<version>`
+
+For Mac users: `~/Library/Application Support/JetBrains/IntelliJIdea<version>`
+
+For Windows users: `%APPDATA%\JetBrains\IntelliJIdea<version>`
 
 ## Supported Formats:
 
 Syntax styling has been defined for:
 
-CSS, Groovy, HTML, Java, JavaScript, JSON, Properties, Sass/SCSS, TypeScript, XML, YAML
+CSS, Groovy, HTML, Java, JavaScript, JSON, Kotlin, Markdown, Properties, Style Sheets (CSS/Less/Sass/SCSS), TOML, TypeScript, XML, YAML
 
 ## Code Styles
 
@@ -37,3 +43,5 @@ Click the "Manage" button and a default scheme can be set for all projects.  Wit
 ## Info
 
 I tend to update this file on an as-needed basis, and have avoided any sort of formal versioning. That being the case, keeping up to date is as simple as running a quick `git pull`.
+
+The latest changes are known to work in IntelliJ Idea 2022.2.
