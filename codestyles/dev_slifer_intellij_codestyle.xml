@@ -38,6 +38,10 @@
     <option name="HEX_COLOR_LONG_FORMAT" value="true" />
     <option name="ENFORCE_QUOTES_ON_FORMAT" value="true" />
   </LessCodeStyleSettings>
+  <Properties>
+    <option name="SPACES_AROUND_KEY_VALUE_DELIMITER" value="true" />
+    <option name="KEEP_BLANK_LINES" value="true" />
+  </Properties>
   <ScssCodeStyleSettings>
     <option name="HEX_COLOR_LOWER_CASE" value="true" />
     <option name="HEX_COLOR_LONG_FORMAT" value="true" />
