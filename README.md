@@ -26,13 +26,13 @@ For Linux users: `~/.config/JetBrains/IntelliJIdea<version>`
 
 For Mac users: `~/Library/Application Support/JetBrains/IntelliJIdea<version>`
 
-For Windows users: `%APPDATA%\JetBrains\IntelliJIdea<version>`
+For Windows users: `%APPDATA%\Roaming\JetBrains\IntelliJIdea<version>`
 
 ## Supported Formats:
 
 Syntax styling has been defined for:
 
-CSS, Groovy, HTML, Java, JavaScript, JSON, Kotlin, Markdown, Properties, Style Sheets (CSS/Less/Sass/SCSS), TOML, TypeScript, XML, YAML
+Java, Groovy, HTML, HTTP Request, JavaScript, JSON, Markdown, Properties, Style Sheets (CSS, Less, Sass, SCSS), TOML, TypeScript, XML, YAML
 
 ## Code Styles
 
@@ -44,4 +44,4 @@ Click the "Manage" button and a default scheme can be set for all projects.  Wit
 
 I tend to update this file on an as-needed basis, and have avoided any sort of formal versioning. That being the case, keeping up to date is as simple as running a quick `git pull`.
 
-The latest changes are known to work in IntelliJ Idea 2022.2.
+The latest changes are known to work in IntelliJ Idea 2025.2.
